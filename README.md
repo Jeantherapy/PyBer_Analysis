@@ -7,7 +7,7 @@ The purpose of the PyBer ride data is to provide information and insights about 
 
 ### Deliverable 1: A ride-sharing summary DataFrame by city type
 The PyBer ride data can be used to analyze ride patterns and trends over time. This analysis enables the prediction of future ride demand, helping PyBer optimize driver allocation, pricing strategies, and operational planning.
-![Image 1]()
+![Image 1](https://github.com/Jeantherapy/PyBer_Analysis/blob/main/Resources/D1.png)
 
 ###  Deliverable 2: A multiple-line chart of total fares for each city type
 The city type information in the PyBer ride data allows for market segmentation analysis. This analysis can help PyBer understand the different characteristics and behaviors of riders in urban, suburban, and rural areas, leading to targeted marketing campaigns and tailored service offerings.
