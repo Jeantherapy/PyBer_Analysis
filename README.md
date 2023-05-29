@@ -12,7 +12,7 @@ The PyBer ride data can be used to analyze ride patterns and trends over time. T
 ###  Deliverable 2: A multiple-line chart of total fares for each city type
 The city type information in the PyBer ride data allows for market segmentation analysis. This analysis can help PyBer understand the different characteristics and behaviors of riders in urban, suburban, and rural areas, leading to targeted marketing campaigns and tailored service offerings.
 
-![Image 2]()
+![Image 2](https://github.com/Jeantherapy/PyBer_Analysis/blob/main/Resources/D2.png)
 ![Image 3]()
 
 ### Deliverable 3: A written report for the PyBer analysis (README.md)
